@@ -2,5 +2,5 @@
 
 int main()
 {
-    cout << "Welcome to Actions demo\n";
+    cout << "Welcome to Checks demo\n";
 }
