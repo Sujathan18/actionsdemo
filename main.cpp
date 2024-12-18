@@ -1,3 +1,7 @@
+/*
+Author: Sujatha N
+*/
+
 #include<iostream.h>
 
 int main()
